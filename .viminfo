@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1765410358,,"wq!"
+|2,0,1765412805,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  12  0  ~/simple-ci-project/src/test/test.sh
-|4,48,12,0,1765410358,"~/simple-ci-project/src/test/test.sh"
-'1  3  0  ~/simple-ci-project/src/index.sh
-|4,49,3,0,1765410287,"~/simple-ci-project/src/index.sh"
+'0  39  0  ~/simple-ci-project/pom.xml
+|4,48,39,0,1765412805,"~/simple-ci-project/pom.xml"
+'1  12  0  ~/simple-ci-project/src/test/test.sh
+|4,49,12,0,1765410358,"~/simple-ci-project/src/test/test.sh"
+'2  3  0  ~/simple-ci-project/src/index.sh
+|4,50,3,0,1765410287,"~/simple-ci-project/src/index.sh"
 
 # Jumplist (newest first):
+-'  39  0  ~/simple-ci-project/pom.xml
+|4,39,39,0,1765412805,"~/simple-ci-project/pom.xml"
+-'  1  0  ~/simple-ci-project/pom.xml
+|4,39,1,0,1765412769,"~/simple-ci-project/pom.xml"
 -'  12  0  ~/simple-ci-project/src/test/test.sh
 |4,39,12,0,1765410358,"~/simple-ci-project/src/test/test.sh"
+-'  12  0  ~/simple-ci-project/src/test/test.sh
+|4,39,12,0,1765410358,"~/simple-ci-project/src/test/test.sh"
+-'  1  0  ~/simple-ci-project/src/test/test.sh
+|4,39,1,0,1765410347,"~/simple-ci-project/src/test/test.sh"
 -'  1  0  ~/simple-ci-project/src/test/test.sh
 |4,39,1,0,1765410347,"~/simple-ci-project/src/test/test.sh"
 -'  3  0  ~/simple-ci-project/src/index.sh
 |4,39,3,0,1765410287,"~/simple-ci-project/src/index.sh"
 -'  3  0  ~/simple-ci-project/src/index.sh
 |4,39,3,0,1765410287,"~/simple-ci-project/src/index.sh"
+-'  3  0  ~/simple-ci-project/src/index.sh
+|4,39,3,0,1765410287,"~/simple-ci-project/src/index.sh"
+-'  3  0  ~/simple-ci-project/src/index.sh
+|4,39,3,0,1765410287,"~/simple-ci-project/src/index.sh"
+-'  1  0  ~/simple-ci-project/src/index.sh
+|4,39,1,0,1765410271,"~/simple-ci-project/src/index.sh"
+-'  1  0  ~/simple-ci-project/src/index.sh
+|4,39,1,0,1765410271,"~/simple-ci-project/src/index.sh"
 -'  1  0  ~/simple-ci-project/src/index.sh
 |4,39,1,0,1765410271,"~/simple-ci-project/src/index.sh"
 -'  1  0  ~/simple-ci-project/src/index.sh
 |4,39,1,0,1765410271,"~/simple-ci-project/src/index.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/simple-ci-project/pom.xml
+	*	1765412802	0
+	"	39	0
+	^	39	0
+	.	38	1
+	+	38	1
 
 > ~/simple-ci-project/src/test/test.sh
 	*	1765410356	0
